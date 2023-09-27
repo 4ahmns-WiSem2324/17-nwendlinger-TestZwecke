@@ -6,6 +6,6 @@ public class TestGameManager : MonoBehaviour
 {
     void Start()
     {
-        Debug.Log("Blabla");
+        Debug.Log("Niclas.Homo(true)");
     }
 }
